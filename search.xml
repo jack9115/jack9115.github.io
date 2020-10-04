@@ -56,10 +56,10 @@
   <entry>
     <title>PotPlayer 1.7.21295</title>
     <url>/PotPlayer/</url>
-    <content><![CDATA[<p><img src="https://gitee.com/apkmod/pic/raw/master/potplayer.png" alt="img"></p>
+    <content><![CDATA[<p>Daum PotPlayer 是KMPlayer作者的多媒体播放器。它的特点是高质量的播放，对所有现代视频和音频格式的支持以及内置的DXVA视频编解码器。Potplayer具有新颖的设计，易于配置，允许您分配和更改热键，将播放声音记录在一个单独的文件中，连接DSP插件，显示字幕以及在播放音频文件时打开可视化效果。Potplayer具有大量可以极大提高视频质量的设置。<a id="more"></a></p>
+<p><img src="https://gitee.com/apkmod/pic/raw/master/potplayer.png" alt="img"></p>
 <p><img src="https://gitee.com/apkmod/pic/raw/master/potplayer1.png" alt="img"></p>
 <p><img src="https://gitee.com/apkmod/pic/raw/master/potplayer2.png" alt="img"></p>
-<p>Daum PotPlayer 是KMPlayer作者的多媒体播放器。它的特点是高质量的播放，对所有现代视频和音频格式的支持以及内置的DXVA视频编解码器。Potplayer具有新颖的设计，易于配置，允许您分配和更改热键，将播放声音记录在一个单独的文件中，连接DSP插件，显示字幕以及在播放音频文件时打开可视化效果。Potplayer具有大量可以极大提高视频质量的设置。<a id="more"></a></p>
 <p><strong>常规信息：</strong></p>
 <p>类型：安装，便携式拆包<br>语言：俄语，英语，多种<br>其他：图标，导入Settings.reg，导入外观\ *。Dsf</p>
 <p><strong>命令行参数：</strong></p>
@@ -133,7 +133,23 @@
   <entry>
     <title>置顶</title>
     <url>/top/</url>
-    <content><![CDATA[<p>pandownload站长专供<a id="more"></a><br>我也是第一次用理论上每日10万次实际上不知道<br><a href="https://yellow-term-41f4.workers2511.workers.dev/">点击跳转</a> </p>
+    <content><![CDATA[<p>pandownload站长专供       百度网盘直链解析<a id="more"></a><br>我也是第一次用理论上每日10万次实际上不知道<br><a href="https://yellow-term-41f4.workers2511.workers.dev/">点击跳转</a> </p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Bandicam 4.6.4.1728（重新包装和便携式）</title>
+    <url>/Bandicam/</url>
+    <content><![CDATA[<p>Bandicam（班迪录屏）一款简单好用的录屏大师，录屏幕，录游戏，录视频的功能强大的屏幕录像软件，比起其他软件其性能更加卓越。 与其他软件相比，用Bandicam录制的视频大小更小，不仅保证原文件的质量。<a id="more"></a></p>
+<p><img src="https://static.bandicam.cn/img/img_mode_2.png" alt="img"></p>
+<h3 id="屏幕录制"><a href="#屏幕录制" class="headerlink" title="屏幕录制"></a>屏幕录制</h3><p>Bandicam 录屏软件录制屏幕上您操作的所有内容，软件操作，网络教学，课件制作，在线视频，直播视频等，高清屏幕录像软件。</p>
+<p><img src="https://static.bandicam.cn/img/img_mode_1.png" alt="img"></p>
+<h3 id="游戏录制"><a href="#游戏录制" class="headerlink" title="游戏录制"></a>游戏录制</h3><p>Bandicam 录屏软件支持各类2D/3D精彩的游戏视频录制，用它来扑捉每秒480帧数的视频，4K高清游戏录制的高清屏幕录像软件。</p>
+<p><img src="https://static.bandicam.cn/img/img_mode_3.png" alt="img"></p>
+<h3 id="设备录制"><a href="#设备录制" class="headerlink" title="设备录制"></a>设备录制</h3><p>Bandicam 录屏软件能够录制电脑外置设备，比如网络摄像头，Xbox/PS游戏机，手机，网络电视等，功能强大的屏幕录像软件。</p>
+<p>是从监视器屏幕捕获视频以及获取高质量屏幕截图的最佳应用程序之一。该程序具有简单的控件，并且可以根据所需的录制参数进行完全自定义：您可以保存整个桌面或选定区域的视频或图片；支持与所有应用程序，游戏，电影一起工作；个性化选择接收文件的质量和分辨率等。<br>至于可以保存视频和图像的格式，最流行的是：视频-avi和mp4，屏幕截图-bmp，png，jpg。此外，该程序还完全支持H.264，Xvid，MPEG-1，MJPEG，MP2，PCM编解码器以及DirectX / OpenGL技术。方便地，从计算机游戏录制视频时，您可以查看和控制FPS指示器，从而创建高质量的评论和说明。<br>其他优点包括能够以高达3840x2160的分辨率进行记录，内置的设置布局以将视频以上传格式保存到YouTube（720p / 1080p），结果文件的大小相当合理，最大文件大小不受限制等。</p>
+<p><strong>特点</strong> <strong><em>\</em>重新包装Bandicam\</strong>：**<br> 1.在一个分发工具包中组合安装程序或解压缩便携式版本（CheshireCat）<br> 2.不需要注册（keymaker-MAZE）+禁用在线验证（补丁pawel97）<br> 3.多语言界面（包括俄语/由CheshireCat补充/）<br> 4.如果安装程序旁边有一个，请拾取settings.reg设置文件。</p>
+<p>由于有激活器所以报病毒正常现象</p>
+<p><a href="https://545c.com/file/17587959-463743217" target="_blank">bandicam_4.6.4.1728安装版.zip</a><br/><br><a href="https://545c.com/file/17587959-463743236" target="_blank">bandicam_4.6.4.1728便携版.zip</a><br/></p>
 ]]></content>
   </entry>
 </search>
