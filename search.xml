@@ -17,40 +17,8 @@
 <p><strong>7 SP1（32位）</strong> <strong>7 SP1（64位）</strong> <strong>8.1（32位）</strong> <strong>8.1（64位）</strong> <strong>10（32位）</strong> <strong>10（64位）</strong></p>
 <p><a href="https://545c.com/file/17587959-463257312"><img src="https://gitee.com/apkmod/pic/raw/master/%E4%B8%8B%E8%BD%BD.png" alt="img"></a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>测试     单文件制作封装工具(Enigma Virtual Box) v9.50中文版</title>
-    <url>/Enigma%20Virtual%20Box/</url>
-    <content><![CDATA[<p>可以封装文件、文件夹的单文件封装工具，也叫文件虚拟化工具，Enigma Virtual Box制作的单文件运行时不会释放文件到硬盘，只在内存中运行。<a id="more"></a><br>　　免费的软件虚拟化工具，Enigma 虚拟文件打包系统可以将您的程序和配套文件打包成一个可执行文件，而没有任何效率的损失，配套文件也不会被释放至硬盘。这样您的软件就可以制作成为单文件 的绿色软件。本项功能有独立的免费应用程序，同时支持X86和X64二进制文件。<br>　　Enigma 虚拟文件打包系统适用于各类文件，让您的程序附件文件无需释放到磁盘而可以直接调用。使用虚拟文件打包系统，您可以加入任何类型的文件，如动态库 （*.dll）、ActiveX/COM对象（*.dll , <em>.ocx）,视频和音频文件（</em>.a vi，*.mp3 ）,文本文件（*.txt， *.doc ）等， Enigma虚拟文件打包系统不会将打包的文件释放到硬盘，所有进程均在内存里执行。支持Windows版本广泛，包括Windows 2000/XP/2003/Vista/2008 and Windows 7。</p>
-<p><img src="http://thumb10.jfcdns.com/thumb/n131q31g13a38/16f5e571c4f19c3f_600_0.jpeg" alt="img"></p>
-<p><strong>软件特色</strong></p>
-<p>　　- Enigma 虚拟文件打包系统不会释放临时文件到您的计算机，也不会将打包文件释放至硬盘</p>
-<p>　　- Enigma 虚拟文件打包系统支持 x86 (32位) 和 x64 (64位) 文件，打包后程序能运行在所有的Windows操作系统中</p>
-<p>　　- Enigma 虚拟文件打包系统完全是免费的应用程序，您不必支付任何费用就可以使用它!</p>
-<p>　　- Enigma 虚拟文件打包系统支持各种类型的文件进行虚拟打包</p>
-<p>　　- Enigma 虚拟文件打包系统支持文件的压缩，从而大幅减少生成文件的体积</p>
-<p><strong>功能介绍</strong></p>
-<p>　　打包文件的保护 Enigma 虚拟文件打包功能并没有对文件提供高强度的保护，如果您需要保护文件，建议您使用 the Enigma Protector完全版，其中已内建了虚拟打包文件功能。</p>
-<p>　　使用简单方便 Enigma 虚拟文件打包功能不需要懂得任何额外的编程代码。只需要运行该工具，浏览您需要打包的文件，再添加到打包目录列表中，最后点击打包（保护）即可!</p>
-<p>　　完全免费的解决方案 Enigma 虚拟文件打包系统是一个完全免费的程序，不需要付费注册。这是唯一的第一个有此功能的免费软件，您还会支付<a href="http://www.pc6.com/pc/gddanji/">高达</a>数千美元来购买实现这项功能的软件吗？有了 Enigma 虚拟打包文件工具后。</p>
-<p>　　它是如何工作的 Enigma 虚拟文件打包系统将附加文件打包至主程序中运行后，特殊的加载系统会拦截系统调用磁盘读写，如果目标文件是虚拟运行，Enigma打包系统将会在内存模拟运行文件，并返回所需结果。</p>
-<p><strong>使用方法</strong></p>
-<p>　　1、选择主文件*.<a href="http://www.pc6.com/wenjian/exe/">exe文件</a>；</p>
-<p>　　2、封包之后的程序另存 目录；</p>
-<p>　　3、点击 “增加” 其他文件和文件夹（先增加文件夹，再增加文件）。当然，你不需要增加就可完全省略此步骤；</p>
-<p>　　4、执行。</p>
-<p><img src="http://1.pic.pc6.com/thumb/up/2013-11/20131111881107185363_600_0.jpg" alt="单文件制作封装工具(Enigma Virtual Box)"></p>
-<p><strong>中文设置</strong></p>
-<p>　　language-》Chinese，重新启动程序。</p>
-<p><img src="http://9.pic.pc6.com/thumb/up/2013-6/201366662028459081_600_0.jpg" alt="单文件制作封装工具(Enigma Virtual Box)"></p>
-<p><strong>更新日志</strong></p>
-<p>　　1、修复了win64位系统下的问题</p>
-<p>　　2、其它问题修复</p>
-<p>　　3、增加了越南语翻译</p>
-<p>　　4、修正了注册表导入功能的一些问题<br>　　<br>　 <a href="https://545c.com/file/17587959-463739236" target="_blank">Enigma Virtual Box_9.50.exe</a><br/></p>
-]]></content>
       <categories>
-        <category>未分类</category>
+        <category>windows</category>
       </categories>
   </entry>
   <entry>
@@ -68,7 +36,7 @@
 <p><a href="https://545c.com/file/17587959-463740883" target="_blank">PotPlayer.v1.7.21295.zip</a><br/></p>
 ]]></content>
       <categories>
-        <category>视频</category>
+        <category>windows</category>
       </categories>
   </entry>
   <entry>
@@ -153,5 +121,27 @@
 <p>由于有激活器所以报病毒正常现象</p>
 <p><a href="https://545c.com/file/17587959-463743217" target="_blank">bandicam_4.6.4.1728安装版.zip</a><br/><br><a href="https://545c.com/file/17587959-463743236" target="_blank">bandicam_4.6.4.1728便携版.zip</a><br/></p>
 ]]></content>
+      <categories>
+        <category>windows</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Minecraft 1.16.100.58 Apk + MOD (Full Premium) Unlocked Android</title>
+    <url>/apk-Minecraft/</url>
+    <content><![CDATA[<p><strong><em><a href="https://en.wikipedia.org/wiki/Minecraft">Minecraft</a></em></strong>是一款独立于沙盒的视频游戏，最初由瑞典程序员Markus“ Notch” Persson创建，后来由瑞典Mojang公司开发和发行。<em>Minecraft</em>的创意和建筑方面使玩家能够在3D程序生成的世界中，从带纹理的立方体中构建建筑。游戏中的其他活动包括探索，资源收集，制作和战斗。<a id="more"></a></p>
+<p>提供多种游戏模式，包括生存模式（玩家必须获取资源以建立世界和维持健康），创意模式（玩家可以拥有无限的资源来建造和飞行）以及冒险模式（玩家可以使用创建的自定义地图）由其他玩家。游戏的PC版本以其第三方模块而闻名，该模块向游戏添加了各种新物品，角色和任务。</p>
+<p>Alpha版于2009年5月17日在PC上公开发布，经过逐步更新后，完整版于2011年11月18日发布。Android版于一个月前的10月7日发布，而iOS版则于10月7日发布。 2011年11月17日。该游戏于2012年5月9日作为Xbox Live Arcade游戏在Xbox 360上发布；在2013年12月17日的PlayStation 3上；在2014年9月4日的PlayStation 4上；第二天在Xbox One上；以及2014年10月14日在PlayStation Vitaon上发布的内容。2014年12月10日，发布了Windows Phone版本。<em>Minecraft的</em>所有版本均会定期更新，其中游戏机版本由4J Studios共同开发。</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe">Minecraft的目的</a>是放置积木来建造事物并进行冒险。</p>
+<p>Pocket Edition包括生存和创作模式，通过本地Wi-Fi网络的多人游戏，无限世界，洞穴，新生物群落，暴民，村庄等等。只要您有双手备用和电池可以燃烧，就可以在世界上任何地方进行工艺，创造和探索。</p>
+<p>随时随地享受Minecraft的最佳时机。</p>
+<p>Minecraft：Pocket Edition是通用应用程序。支付一次即可在您的任何Android设备上播放。</p>
+<h4 id="什么是新的："><a href="#什么是新的：" class="headerlink" title="什么是新的："></a>什么是新的：</h4><p>1.16.40中的新增功能：修复了各种错误！</p>
+<p><strong>MOD1</strong><br>解锁的高级皮肤<br>解锁的高级纹理</p>
+<p><strong>MOD2</strong><br>解锁的高级皮肤<br>解锁的高级纹理<br>无伤害mod<br>无限的呼吸<br>最大库存大小<br>武器一击必杀<br>最大得分<br>坚不可摧的工具</p>
+<p><a href="http://ctfile.repack.top/file/17587959-463749725" target="_blank">Minecraft-v1.16.100.58.apk</a><br/><a href="http://ctfile.repack.top/file/17587959-463749818" target="_blank">Minecraft-v1.14.0.1-Mod2.apk</a><br/><br><a href="http://ctfile.repack.top/file/17587959-463749670" target="_blank">Minecraft-v1.14.0.50-Mod1.apk</a><br/></p>
+]]></content>
+      <categories>
+        <category>apk</category>
+      </categories>
   </entry>
 </search>
